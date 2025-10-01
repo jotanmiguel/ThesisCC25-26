@@ -1,0 +1,2 @@
+https://linbit.com/blog/comparing-cloudstack-opennebula-openstack/
+https://openmetal.io/resources/blog/openstack-vs-cloudstack-migrating-from-vmware/
