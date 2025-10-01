@@ -1,0 +1,4 @@
+Ideias:
+- Na criação das vms, pedir por um range de utilização, se não for disponibilizado, definir default 1 ano. Quando chegar à data, perguntar a quem as criou se quer continuar ou podem ser apagadas.
+- Olhas para formas de como armazenar o estado das vms de maneira eficiente.
+- criar vários pacotes de os como predefinidos. 
