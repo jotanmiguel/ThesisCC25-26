@@ -1,0 +1,116 @@
+%%
+%% This is file `sample-sigchi.tex',
+%% generated with the docstrip utility.
+%% but modified by the faculty @ DI/FCUL
+%% The original source files were:
+%%
+%% samples.dtx  (with options: `sigchi')
+%% 
+%% IMPORTANT NOTICE:
+%% 
+%% For the copyright see the source file.
+%% 
+%% Any modified versions of this file must be renamed
+%% with new filenames distinct from sample-sigchi.tex.
+%% 
+%% For distribution of the original source see the terms
+%% for copying and modification in the file samples.dtx.
+%% 
+%% This generated file may be distributed as long as the
+%% original source files, as listed above, are part of the
+%% same distribution. (The sources need not necessarily be
+%% in the same archive or directory.)
+%%
+%% The first command in your LaTeX source must be the \documentclass command.
+\documentclass[sigplan]{acmart}
+\settopmatter{printacmref=false} % Removes citation information below abstract
+\renewcommand\footnotetextcopyrightpermission[1]{} % removes footnote with conference information in first column
+\usepackage{subcaption}
+\usepackage{caption}
+\usepackage{array}
+\usepackage{multirow}
+
+%% end of the preamble, start of the body of the document source.
+\begin{document}
+
+\title{Title of Your Work} 
+
+\author{Your Name - Your Number}
+\affiliation{%
+ \institution{
+  Estudo Orientado \\ 
+  Mestrado em \{nome do Mestrado\} \\ 
+  Faculdade de Ciências, Universidade de Lisboa}
+ }
+\email{youremail@fc.ul.pt}
+
+
+\begin{abstract}
+  your abstract (about 10 lines).
+\end{abstract}
+
+
+%%
+%% Keywords. The author(s) should pick words that accurately describe
+%% the work being presented. Separate the keywords with commas.
+\keywords{5 keywords}
+
+\pagestyle{plain} % removes running headers
+
+%%
+%% This command processes the author and affiliation and title
+%% information and builds the first part of the formatted document.
+\maketitle
+\section{Introduction}
+
+The introduction should present an overview of the work, provide a motivation, and describe the organization of the document. The subsections presented below are suggestions for organizing this chapter. \\
+
+\textbf{Context}. What is the context of the problem? \\
+
+\textbf{Problem} A description of the original problem the project aims to solve\\
+
+\textbf{Motivation} Why this problem is important and/or relevant? Why it justifies this work? How is your approach different from what was already done (if something was done)? \\
+
+\textbf{Goals} The main goals this project this project aims to achieve\\
+
+\textbf{Organization} A quick description of the following sections \\
+
+\section{Background} \label{sec:background}
+
+This section should contain any information needed to understand the problem you are tackling. For instance, relevant concepts and definitions in the problem area, and particularly those that will be used in the work.
+
+\section{Related Work} \label{sec:relatedwork}
+
+Where the existing related technologies are described and explored. What is the state of the art on the topic you are working? \\
+
+\textit{Example of a reference \cite{lamport1994}. This was a book, but all other relevant works in papers \cite{turing1937} could be added as well.}
+
+\section{«Section(s) about your Work»} \label{sec:work1}
+
+Here you should describe in as much detail as possible the problem and your plan to tackle it (use appropriate section titles for the described work). \\
+
+What are the methods you are planning to use, or already started to use, to tackle your problem. \\
+
+This should be based on related word, your understanding of the problem and eventually preliminary results.
+
+\section{Preliminary Results (optional)} \label{sec:preliminaryresults}
+
+Where you describe the work already carried out, what data has already been collected, what analysis and designs have already been done, what methods have been used, what programs and/or preliminary results already exist, etc.
+
+
+\section{Forthcoming Work and Conclusions} \label{sec:conclusions}
+
+It should include subsections that describe the work to be carried out during the rest of the year, and what its objectives are. 
+
+It should also include planning until the end of the work, in chronological order. 
+
+Include a final concluding subsection (may be a separate section) with a summary of contributions already made, a preliminary self-assessment of the work done so far, and difficulties encountered.
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% The next two lines define the bibliography style to be used, and
+%% the bibliography file.
+\bibliographystyle{ACM-Reference-Format}
+\bibliography{sample-base}
+
+\end{document}

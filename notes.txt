@@ -5,4 +5,7 @@ Ideias:
 - aceder às vms de forma remota. (tenho a ideia que para já é so atraves de consola, talvez possibilitar a visualização do ambiente grafico (Linux)).
 
 Pesquisar:
-- Private Cloud. O que é, para que serve e poderá ser aplicado neste caso?
+
+Duvidas:
+- OpenStack ou Red Hat OpenStack Platform;
+- Seria um Private cloud do tipo IaaS

@@ -1,0 +1,32 @@
+Infraestrutura de Cloud para o DI
+
+Projeto 2025/2026
+
+Introdução
+
+A transição de uma infraestrutura de administração de sistemas que exige constante intervenção manual no provisionamento de recursos como máquinas virtuais e armazenamento para outro que automatize estes procedimentos, dentro de limites prá-definidos, é uma das vantagens de uma infraestrutura de cloud. O DI pretende desenvolver uma infraestrutura cloud que ofereça os recursos principais do modelo IaaS.
+
+Objetivos
+
+Pretende-se com este projeto preparar uma infraestrutura em nuvem de suporte às atividades do DI de forma integrada com a infraestrutura atual. Serão exploradas as soluções atuais para infraestruturas de cloud como o CloudStack e o OpenStack. A solução escolhida será instalada num conjunto de servidores. É parte do trabalho a definição de políticas de utilização de recursos e boas práticas. O trabalho será realizado com a equipa da Administração de Sistemas do DI.
+
+Plano de Trabalho
+
+Levantamento de requisitos, estudo do estado da arte e relatório preliminar (2 meses)
+Instalação e configuração de solução de controlo de acessos (1 mês)
+Definição da arquitetura de rede e sua implementação (1 mês)
+Integração do sistema de controlo de acessos com a atual AD (2 meses)
+Preparação de protótipos demonstrativos e validação (2 meses)
+Escrita do relatório final (1 mês)
+
+Local de trabalho
+
+Administração de sistemas do DI
+
+Proponente
+
+Mário João Barata Calha (mcalha@fc.ul.pt)
+
+Entidade Proponente
+
+DI

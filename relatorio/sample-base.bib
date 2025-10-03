@@ -1,0 +1,604 @@
+
+% Journals
+
+% First the Full Name is given, then the abbreviation used in the AMS Math
+% Reviews, with an indication if it could not be found there.
+% Note the 2nd overwrites the 1st, so swap them if you want the full name.
+
+ %{AMS}
+ @String{AMSTrans = "American Mathematical Society Translations" }
+ @String{AMSTrans = "Amer. Math. Soc. Transl." }
+ @String{BullAMS = "Bulletin of the American Mathematical Society" }
+ @String{BullAMS = "Bull. Amer. Math. Soc." }
+ @String{ProcAMS = "Proceedings of the American Mathematical Society" }
+ @String{ProcAMS = "Proc. Amer. Math. Soc." }
+ @String{TransAMS = "Transactions of the American Mathematical Society" }
+ @String{TransAMS = "Trans. Amer. Math. Soc." }
+
+ %ACM
+ @String{CACM = "Communications of the {ACM}" }
+ @String{CACM = "Commun. {ACM}" }
+ @String{CompServ = "Comput. Surveys" }
+ @String{JACM = "J. ACM" }
+ @String{ACMMathSoft = "{ACM} Transactions on Mathematical Software" }
+ @String{ACMMathSoft = "{ACM} Trans. Math. Software" }
+ @String{SIGNUM = "{ACM} {SIGNUM} Newsletter" }
+ @String{SIGNUM = "{ACM} {SIGNUM} Newslett." }
+
+ @String{AmerSocio = "American Journal of Sociology" }
+ @String{AmerStatAssoc = "Journal of the American Statistical Association" }
+ @String{AmerStatAssoc = "J. Amer. Statist. Assoc." }
+ @String{ApplMathComp = "Applied Mathematics and Computation" }
+ @String{ApplMathComp = "Appl. Math. Comput." }
+ @String{AmerMathMonthly = "American Mathematical Monthly" }
+ @String{AmerMathMonthly = "Amer. Math. Monthly" }
+ @String{BIT = "{BIT}" }
+ @String{BritStatPsych = "British Journal of Mathematical and Statistical
+          Psychology" }
+ @String{BritStatPsych = "Brit. J. Math. Statist. Psych." }
+ @String{CanMathBull = "Canadian Mathematical Bulletin" }
+ @String{CanMathBull = "Canad. Math. Bull." }
+ @String{CompApplMath = "Journal of Computational and Applied Mathematics" }
+ @String{CompApplMath = "J. Comput. Appl. Math." }
+ @String{CompPhys = "Journal of Computational Physics" }
+ @String{CompPhys = "J. Comput. Phys." }
+ @String{CompStruct = "Computers and Structures" }
+ @String{CompStruct = "Comput. \& Structures" }
+ @String{CompJour = "The Computer Journal" }
+ @String{CompJour = "Comput. J." }
+ @String{CompSysSci = "Journal of Computer and System Sciences" }
+ @String{CompSysSci = "J. Comput. System Sci." }
+ @String{Computing = "Computing" }
+ @String{ContempMath = "Contemporary Mathematics" }
+ @String{ContempMath = "Contemp. Math." }
+ @String{Crelle = "Crelle's Journal" }
+ @String{GiornaleMath = "Giornale di Mathematiche" }
+ @String{GiornaleMath = "Giorn. Mat." } % didn't find in AMS MR., ibid.
+
+ %IEEE
+ @String{Computer = "{IEEE} Computer" }
+ @String{IEEETransComp = "{IEEE} Transactions on Computers" }
+ @String{IEEETransComp = "{IEEE} Trans. Comput." }
+ @String{IEEETransAC = "{IEEE} Transactions on Automatic Control" }
+ @String{IEEETransAC = "{IEEE} Trans. Automat. Control" }
+ @String{IEEESpec = "{IEEE} Spectrum" } % didn't find in AMS MR
+ @String{ProcIEEE = "Proceedings of the {IEEE}" }
+ @String{ProcIEEE = "Proc. {IEEE}" } % didn't find in AMS MR
+ @String{IEEETransAeroElec = "{IEEE} Transactions on Aerospace and Electronic
+     Systems" }
+ @String{IEEETransAeroElec = "{IEEE} Trans. Aerospace Electron. Systems" }
+
+ @String{IMANumerAna = "{IMA} Journal of Numerical Analysis" }
+ @String{IMANumerAna = "{IMA} J. Numer. Anal." }
+ @String{InfProcLet = "Information Processing Letters" }
+ @String{InfProcLet = "Inform. Process. Lett." }
+ @String{InstMathApp = "Journal of the Institute of Mathematics and
+     its Applications" }
+ @String{InstMathApp = "J. Inst. Math. Appl." }
+ @String{IntControl = "International Journal of Control" }
+ @String{IntControl = "Internat. J. Control" }
+ @String{IntNumerEng = "International Journal for Numerical Methods in
+     Engineering" }
+ @String{IntNumerEng = "Internat. J. Numer. Methods Engrg." }
+ @String{IntSuper = "International Journal of Supercomputing Applications" }
+ @String{IntSuper = "Internat. J. Supercomputing Applic." } % didn't find
+%% in AMS MR
+ @String{Kibernetika = "Kibernetika" }
+ @String{JResNatBurStand = "Journal of Research of the National Bureau
+     of Standards" }
+ @String{JResNatBurStand = "J. Res. Nat. Bur. Standards" }
+ @String{LinAlgApp = "Linear Algebra and its Applications" }
+ @String{LinAlgApp = "Linear Algebra Appl." }
+ @String{MathAnaAppl = "Journal of Mathematical Analysis and Applications" }
+ @String{MathAnaAppl = "J. Math. Anal. Appl." }
+ @String{MathAnnalen = "Mathematische Annalen" }
+ @String{MathAnnalen = "Math. Ann." }
+ @String{MathPhys = "Journal of Mathematical Physics" }
+ @String{MathPhys = "J. Math. Phys." }
+ @String{MathComp = "Mathematics of Computation" }
+ @String{MathComp = "Math. Comp." }
+ @String{MathScand = "Mathematica Scandinavica" }
+ @String{MathScand = "Math. Scand." }
+ @String{TablesAidsComp = "Mathematical Tables and Other Aids to Computation" }
+ @String{TablesAidsComp = "Math. Tables Aids Comput." }
+ @String{NumerMath = "Numerische Mathematik" }
+ @String{NumerMath = "Numer. Math." }
+ @String{PacificMath = "Pacific Journal of Mathematics" }
+ @String{PacificMath = "Pacific J. Math." }
+ @String{ParDistComp = "Journal of Parallel and Distributed Computing" }
+ @String{ParDistComp = "J. Parallel and Distrib. Comput." } % didn't find
+%% in AMS MR
+ @String{ParComputing = "Parallel Computing" }
+ @String{ParComputing = "Parallel Comput." }
+ @String{PhilMag = "Philosophical Magazine" }
+ @String{PhilMag = "Philos. Mag." }
+ @String{ProcNAS = "Proceedings of the National Academy of Sciences
+                    of the USA" }
+ @String{ProcNAS = "Proc. Nat. Acad. Sci. U. S. A." }
+ @String{Psychometrika = "Psychometrika" }
+ @String{QuartMath = "Quarterly Journal of Mathematics, Oxford, Series (2)" }
+ @String{QuartMath = "Quart. J. Math. Oxford Ser. (2)" }
+ @String{QuartApplMath = "Quarterly of Applied Mathematics" }
+ @String{QuartApplMath = "Quart. Appl. Math." }
+ @String{RevueInstStat = "Review of the International Statisical Institute" }
+ @String{RevueInstStat = "Rev. Inst. Internat. Statist." }
+
+ %SIAM
+ @String{JSIAM = "Journal of the Society for Industrial and Applied
+     Mathematics" }
+ @String{JSIAM = "J. Soc. Indust. Appl. Math." }
+ @String{JSIAMB = "Journal of the Society for Industrial and Applied
+     Mathematics, Series B, Numerical Analysis" }
+ @String{JSIAMB = "J. Soc. Indust. Appl. Math. Ser. B Numer. Anal." }
+ @String{SIAMAlgMeth = "{SIAM} Journal on Algebraic and Discrete Methods" }
+ @String{SIAMAlgMeth = "{SIAM} J. Algebraic Discrete Methods" }
+ @String{SIAMAppMath = "{SIAM} Journal on Applied Mathematics" }
+ @String{SIAMAppMath = "{SIAM} J. Appl. Math." }
+ @String{SIAMComp = "{SIAM} Journal on Computing" }
+ @String{SIAMComp = "{SIAM} J. Comput." }
+ @String{SIAMMatrix = "{SIAM} Journal on Matrix Analysis and Applications" }
+ @String{SIAMMatrix = "{SIAM} J. Matrix Anal. Appl." }
+ @String{SIAMNumAnal = "{SIAM} Journal on Numerical Analysis" }
+ @String{SIAMNumAnal = "{SIAM} J. Numer. Anal." }
+ @String{SIAMReview = "{SIAM} Review" }
+ @String{SIAMReview = "{SIAM} Rev." }
+ @String{SIAMSciStat = "{SIAM} Journal on Scientific and Statistical
+     Computing" }
+ @String{SIAMSciStat = "{SIAM} J. Sci. Statist. Comput." }
+
+ @String{SoftPracExp = "Software Practice and Experience" }
+ @String{SoftPracExp = "Software Prac. Experience" } % didn't find in AMS MR
+ @String{StatScience = "Statistical Science" }
+ @String{StatScience = "Statist. Sci." }
+ @String{Techno = "Technometrics" }
+ @String{USSRCompMathPhys = "{USSR} Computational Mathematics and Mathematical
+     Physics" }
+ @String{USSRCompMathPhys = "{U. S. S. R.} Comput. Math. and Math. Phys." }
+ @String{VLSICompSys = "Journal of {VLSI} and Computer Systems" }
+ @String{VLSICompSys = "J. {VLSI} Comput. Syst." }
+ @String{ZAngewMathMech = "Zeitschrift fur Angewandte Mathematik und
+     Mechanik" }
+ @String{ZAngewMathMech = "Z. Angew. Math. Mech." }
+ @String{ZAngewMathPhys = "Zeitschrift fur Angewandte Mathematik und Physik" }
+ @String{ZAngewMathPhys = "Z. Angew. Math. Phys." }
+
+% Publishers % ================================================= |
+
+ @String{Academic = "Academic Press" }
+ @String{ACMPress = "{ACM} Press" }
+ @String{AdamHilger = "Adam Hilger" }
+ @String{AddisonWesley = "Addison-Wesley" }
+ @String{AllynBacon = "Allyn and Bacon" }
+ @String{AMS = "American Mathematical Society" }
+ @String{Birkhauser = "Birkha{\"u}ser" }
+ @String{CambridgePress = "Cambridge University Press" }
+ @String{Chelsea = "Chelsea" }
+ @String{ClaredonPress = "Claredon Press" }
+ @String{DoverPub = "Dover Publications" }
+ @String{Eyolles = "Eyolles" }
+ @String{HoltRinehartWinston = "Holt, Rinehart and Winston" }
+ @String{Interscience = "Interscience" }
+ @String{JohnsHopkinsPress = "The Johns Hopkins University Press" }
+ @String{JohnWileySons = "John Wiley and Sons" }
+ @String{Macmillan = "Macmillan" }
+ @String{MathWorks = "The Math Works Inc." }
+ @String{McGrawHill = "McGraw-Hill" }
+ @String{NatBurStd = "National Bureau of Standards" }
+ @String{NorthHolland = "North-Holland" }
+ @String{OxfordPress = "Oxford University Press" }  %address Oxford or London?
+ @String{PergamonPress = "Pergamon Press" }
+ @String{PlenumPress = "Plenum Press" }
+ @String{PrenticeHall = "Prentice-Hall" }
+ @String{SIAMPub = "{SIAM} Publications" }
+ @String{Springer = "Springer-Verlag" }
+ @String{TexasPress = "University of Texas Press" }
+ @String{VanNostrand = "Van Nostrand" }
+ @String{WHFreeman = "W. H. Freeman and Co." }
+
+@book{lamport1994,
+  author    = {Leslie Lamport},
+  title     = {LaTeX - {A} Document Preparation System: User's Guide and Reference
+               Manual, Second Edition},
+  publisher = {Pearson / Prentice Hall},
+  year      = {1994},
+  isbn      = {978-0-201-52983-8},
+  timestamp = {Fri, 08 Apr 2011 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/books/daglib/0023602.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{turing1937,
+    author = {Turing, A. M.},
+    title = "{On Computable Numbers, with an Application to the Entscheidungsproblem}",
+    journal = {Proceedings of the London Mathematical Society},
+    volume = {s2-42},
+    number = {1},
+    pages = {230-265},
+    year = {1937},
+    month = {01},
+    issn = {0024-6115},
+    doi = {10.1112/plms/s2-42.1.230},
+    url = {https://doi.org/10.1112/plms/s2-42.1.230},
+    eprint = {https://academic.oup.com/plms/article-pdf/s2-42/1/230/4317544/s2-42-1-230.pdf},
+}
+@article{henriques2019triclustering,
+  title={Triclustering algorithms for three-dimensional data analysis: A comprehensive survey},
+  author={Henriques, Rui and Madeira, Sara C},
+  journal={ACM Computing Surveys (CSUR)},
+  volume={51},
+  number={5},
+  pages={95},
+  year={2019},
+  publisher={ACM}
+}
+
+
+@article{wei2019multiscale,
+  title={Multiscale co-clustering for tensor data based on canonical polyadic decomposition and slice-wise factorization},
+  author={Wei, Zhenghong and Zhao, Hongya and Zhao, Lan and Yan, Hong},
+  journal={Information Sciences},
+  year={2019},
+  publisher={Elsevier}
+}
+
+@article{KAKATI2018154,
+title = "THD-Tricluster: A robust triclustering technique and its application in condition specific change analysis in HIV-1 progression data",
+journal = "Computational Biology and Chemistry",
+volume = "75",
+pages = "154 - 167",
+year = "2018",
+issn = "1476-9271",
+doi = "https://doi.org/10.1016/j.compbiolchem.2018.05.007",
+url = "http://www.sciencedirect.com/science/article/pii/S1476927115302243",
+author = "Tulika Kakati and Hasin A. Ahmed and Dhruba K. Bhattacharyya and Jugal K. Kalita",
+keywords = "Microarray technology, Shifting-and-scaling patterns, Triclustering, Coexpressd genes, Differentially coexpressed"
+}
+
+@article{tricgpga2019,
+author = {Mohapatra, Shubhankar and Sarkar, Moumita and Mohapatra, Anjali and Biswal, Bhawani},
+year = {2019},
+month = {08},
+pages = {},
+title = {Triclustering of Gene Expression Microarray Data Using Coarse-Grained Parallel Genetic Algorithm}
+}
+
+@article{palaniswamyrough,
+  title={Rough fuzzy cuckoo search for triclustering microarray gene expression data},
+  author={PALANISWAMY, Swathypriyadharsini and KANDHASAMY, Premalatha}
+}
+
+@article{Zhao:2005:TEA:1066157.1066236,
+ author = {Zhao, Lizhuang and Zaki, Mohammed J.},
+ title = {TRICLUSTER: An Effective Algorithm for Mining Coherent Clusters in 3D Microarray Data},
+ booktitle = {Proceedings of the 2005 ACM SIGMOD International Conference on Management of Data},
+ series = {SIGMOD '05},
+ year = {2005},
+ isbn = {1-59593-060-4},
+ location = {Baltimore, Maryland},
+ pages = {694--705},
+ numpages = {12},
+ url = {http://doi.acm.org/10.1145/1066157.1066236},
+ doi = {10.1145/1066157.1066236},
+ acmid = {1066236},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+} 
+
+@article{bhar2013application,
+  title={Application of a Novel Triclustering Method ($\delta$-TRIMAX) to Mine 3D Gene Expression Data of Breast Cancer Cells},
+  author={Bhar, Anirban and Haubrock, Martin and Mukhopadhyay, Anirban and Wingender, Edgar},
+  journal={GCB 2013 G{\"o}ttingen-Highlight Papers},
+  year={2013}
+}
+
+@article{6141358,
+author={H. A. {Ahmed} and P. {Mahanta} and D. K. {Bhattacharyya} and J. K. {Kalita} and A. {Ghosh}},
+booktitle={2011 World Congress on Information and Communication Technologies},
+title={Intersected coexpressed subcube miner: An effective triclustering algorithm},
+year={2011},
+volume={},
+number={},
+pages={846-851},
+keywords={biology computing;data mining;genetics;pattern clustering;intersected coexpressed subcube miner;triclustering algorithm;gene extraction;intertemporal gene coherence;intratemporal gene coherence;time latent triclusters;gene sample time data;gene sample planes;planar similarity measure;PMRS;Correlation;Coherence;Data mining;Transmission line matrix methods;Gene expression;Bioinformatics;Vectors;tricluster;GST microarray data;order preserving sub-matrices;gene expression data analysis;clustering},
+doi={10.1109/WICT.2011.6141358},
+ISSN={},
+month={Dec},}
+
+@article{trigengutierrez,
+author = {Gutiérrez-Avilés, David and Rubio-Escudero, Cristina and Riquelme, José},
+year = {2011},
+month = {11},
+pages = {155-163},
+title = {Unravelling the Yeast Cell Cycle Using the TriGen Algorithm},
+volume = {7023},
+doi = {10.1007/978-3-642-25274-7_16}
+}
+
+@article{6121768,
+author={D. {Gutiérrez-Avilés} and C. {Rubio-Escudero} and J. C. {Riquelme}},
+booktitle={2011 11th International Conference on Intelligent Systems Design and Applications},
+title={Triclustering on temporary microarray data using the TriGen algorithm},
+year={2011},
+volume={},
+number={},
+pages={877-881},
+keywords={data analysis;genetic algorithms;genetics;pattern clustering;temporary microarray data;triclustering;TriGen algorithm;biclustering;grouping constraints;temporal microarray data analysis;evolutionary computation;genetic algorithms;gene expression;Trigeneration;Gene expression;Algorithm design and analysis;Clustering algorithms;Genetic algorithms;triclustering;microarrays;temporary data;genetic algorithms},
+doi={10.1109/ISDA.2011.6121768},
+ISSN={},
+month={Nov},}
+
+@article{tchagang2012mining,
+  title={Mining biological information from 3D short time-series gene expression data: the OPTricluster algorithm},
+  author={Tchagang, Alain B and Phan, Sieu and Famili, Fazel and Shearer, Heather and Fobert, Pierre and Huang, Yi and Zou, Jitao and Huang, Daiqing and Cutler, Adrian and Liu, Ziying and others},
+  journal={BMC bioinformatics},
+  volume={13},
+  number={1},
+  pages={54},
+  year={2012},
+  publisher={BioMed Central}
+}
+
+@article{balasubramanian2016discovering,
+  title={Discovering multidimensional motifs in physiological signals for personalized healthcare},
+  author={Balasubramanian, Arvind and Wang, Jun and Prabhakaran, Balakrishnan},
+  journal={IEEE journal of selected topics in signal processing},
+  volume={10},
+  number={5},
+  pages={832--841},
+  year={2016},
+  publisher={IEEE}
+}
+
+@inproceedings{mahanta2011triclustering,
+  title={Triclustering in gene expression data analysis: a selected survey},
+  author={Mahanta, P and Ahmed, HA and Bhattacharyya, DK and Kalita, Jugal K},
+  booktitle={2011 2nd National Conference on Emerging Trends and Applications in Computer Science},
+  pages={1--6},
+  year={2011},
+  organization={IEEE}
+}
+
+@article{amar2015hierarchical,
+  title={A hierarchical Bayesian model for flexible module discovery in three-way time-series data},
+  author={Amar, David and Yekutieli, Daniel and Maron-Katz, Adi and Hendler, Talma and Shamir, Ron},
+  journal={Bioinformatics},
+  volume={31},
+  number={12},
+  pages={i17--i26},
+  year={2015},
+  publisher={Oxford University Press}
+}
+
+@inproceedings{kakati2016fast,
+  title={A fast gene expression analysis using parallel biclustering and distributed triclustering approach},
+  author={Kakati, Tulika and Ahmed, Hasin A and Bhattacharyya, Dhruba K and Kalita, Jugal K},
+  booktitle={Proceedings of the Second International Conference on Information and Communication Technology for Competitive Strategies},
+  pages={122},
+  year={2016},
+  organization={ACM}
+}
+
+@article{jung2017timesvector,
+  title={TimesVector: a vectorized clustering approach to the analysis of time series transcriptome data from multiple phenotypes},
+  author={Jung, Inuk and Jo, Kyuri and Kang, Hyejin and Ahn, Hongryul and Yu, Youngjae and Kim, Sun},
+  journal={Bioinformatics},
+  volume={33},
+  number={23},
+  pages={3827--3835},
+  year={2017},
+  publisher={Oxford University Press}
+}
+
+@inproceedings{yurov2017turning,
+  title={Turning krimp into a triclustering technique on sets of attribute-condition pairs that compress},
+  author={Yurov, Maxim and Ignatov, Dmitry I},
+  booktitle={International Joint Conference on Rough Sets},
+  pages={558--569},
+  year={2017},
+  organization={Springer}
+}
+
+@article{wu2018triclustering,
+  title={Triclustering georeferenced time series for analyzing patterns of intra-annual variability in temperature},
+  author={Wu, Xiaojing and Zurita-Milla, Raul and Izquierdo Verdiguier, Emma and Kraak, Menno-Jan},
+  journal={Annals of the American Association of Geographers},
+  volume={108},
+  number={1},
+  pages={71--87},
+  year={2018},
+  publisher={Taylor \& Francis}
+}
+
+@article{heylen2016two,
+  title={Two-mode K-spectral centroid analysis for studying multivariate longitudinal profiles},
+  author={Heylen, Joke and Van Mechelen, Iven and Fried, Eiko I and Ceulemans, Eva},
+  journal={Chemometrics and Intelligent Laboratory Systems},
+  volume={154},
+  pages={194--206},
+  year={2016},
+  publisher={Elsevier}
+}
+
+
+@inproceedings{jiang2006gtricluster,
+  title={gTRICLUSTER: a more general and effective 3d clustering algorithm for gene-sample-time microarray data},
+  author={Jiang, Haoliang and Zhou, Shuigeng and Guan, Jihong and Zheng, Ying},
+  booktitle={International Workshop on Data Mining for Biomedical Applications},
+  pages={48--59},
+  year={2006},
+  organization={Springer}
+}
+
+@inproceedings{ji2006mining,
+  title={Mining frequent closed cubes in 3D datasets},
+  author={Ji, Liping and Tan, Kian-Lee and Tung, Anthony KH},
+  booktitle={Proceedings of the 32nd international conference on Very large data bases},
+  pages={811--822},
+  year={2006},
+  organization={VLDB Endowment}
+}
+
+@inproceedings{jaschke2006trias,
+  title={TRIAS--An Algorithm for Mining Iceberg Tri-Lattices},
+  author={Jaschke, Robert and Hotho, Andreas and Schmitz, Christoph and Ganter, Bernhard and Stumme, Gerd},
+  booktitle={Sixth International Conference on Data Mining (ICDM'06)},
+  pages={907--911},
+  year={2006},
+  organization={IEEE}
+}
+
+@inproceedings{liu2008multi,
+  title={Multi-objective evolutionary algorithm for mining 3D clusters in gene-sample-time microarray data},
+  author={Liu, Junwan and Li, Zhoujun and Hu, Xiaohua and Chen, Yiming},
+  booktitle={2008 IEEE International Conference on Granular Computing},
+  pages={442--447},
+  year={2008},
+  organization={IEEE}
+}
+
+@article{li2009effective,
+  title={An effective tri-clustering algorithm combining expression data with gene regulation information},
+  author={Li, Ao and Tuck, David},
+  journal={Gene regulation and systems biology},
+  volume={3},
+  pages={GRSB--S1150},
+  year={2009},
+  publisher={SAGE Publications Sage UK: London, England}
+}
+
+@article{meng2009enrichment,
+  title={Enrichment constrained time-dependent clustering analysis for finding meaningful temporal transcription modules},
+  author={Meng, Jia and Gao, Shou-Jiang and Huang, Yufei},
+  journal={Bioinformatics},
+  volume={25},
+  number={12},
+  pages={1521--1527},
+  year={2009},
+  publisher={Oxford University Press}
+}
+
+@article{wang2009efficiently,
+  title={Efficiently mining time-delayed gene expression patterns},
+  author={Wang, Guoren and Yin, Linjun and Zhao, Yuhai and Mao, Keming},
+  journal={IEEE Transactions on Systems, Man, and Cybernetics, Part B (Cybernetics)},
+  volume={40},
+  number={2},
+  pages={400--411},
+  year={2009},
+  publisher={IEEE}
+}
+
+
+@article{li2013multifactv,
+  title={MultiFacTV: module detection from higher-order time series biological data},
+  author={Li, Xutao and Ye, Yunming and Ng, Michael and Wu, Qingyao},
+  journal={BMC genomics},
+  volume={14},
+  number={4},
+  pages={S2},
+  year={2013},
+  publisher={BioMed Central}
+}
+
+@inproceedings{gutierrez2014lsl,
+  title={LSL: A new measure to evaluate triclusters},
+  author={Gutierrez-Aviles, David and Rubio-Escudero, Cristina},
+  booktitle={2014 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},
+  pages={30--37},
+  year={2014},
+  organization={IEEE}
+}
+
+@article{gutierrez2015msl,
+  title={MSL: a measure to evaluate three-dimensional patterns in gene expression data},
+  author={Guti{\'e}rrez-Avil{\'e}s, David and Rubio-Escudero, Cristina},
+  journal={Evolutionary Bioinformatics},
+  volume={11},
+  pages={EBO--S25822},
+  year={2015},
+  publisher={SAGE Publications Sage UK: London, England}
+}
+
+@misc{onWebDuals,
+   title = {ONWebDUALS ResearchGate Project page},
+   author = {Piotrkiewicz, Maria and de Carvalho, Mamede and Grosskreutz, Julian and Kuzma-Kozakiewicz, Magdalena and Petri-Mals, Susanne and Podsiad\l{}y-Marczykowska, Teresa and Kuraszkiewicz, Bozenna and Goszczy{\'n}ska, Hanna and Andersen, Peter M.},
+   year={2015},
+   howpublished = {\url{https://www.researchgate.net/project/ONTology-based-Web-Database-for-Understanding-Amyotrophic-Lateral-Sclerosis-OnWebDUALS}},
+   note = {[Online; Accessed: 2019-11-14]}
+}
+
+@inproceedings{pires2018predicting,
+  title={Predicting Non-invasive Ventilation in ALS Patients Using Stratified Disease Progression Groups},
+  author={Pires, Sofia and Gromicho, Marta and Pinto, Susana and Carvalho, Mamede and Madeira, Sara C},
+  booktitle={2018 IEEE International Conference on Data Mining Workshops (ICDMW)},
+  pages={748--757},
+  year={2018},
+  organization={IEEE}
+}
+
+@phdthesis{goncalves2013phd,
+    title    = {Intregrative Mining of Gene Regulation and its Perturbations},
+    school   = {Instituto Superior Técnico, Universidade Técnica de Lisboa},
+    author   = {Joana Gonçalves},
+    year     = {2013}
+}
+
+@article{parnell2013identifying,
+  title={Identifying key regulatory genes in the whole blood of septic patients to monitor underlying immune dysfunctions},
+  author={Parnell, Grant P and Tang, Benjamin M and Nalos, Marek and Armstrong, Nicola J and Huang, Stephen J and Booth, David R and McLean, Anthony S},
+  journal={Shock},
+  volume={40},
+  number={3},
+  pages={166--174},
+  year={2013},
+  publisher={LWW}
+}
+
+@article{weinstock2003genomic,
+  title={Genomic effects of IFN-$\beta$ in multiple sclerosis patients},
+  author={Weinstock-Guttman, Bianca and Badgett, Darlene and Patrick, Kara and Hartrich, Laura and Santos, Roseane and Hall, Dennis and Baier, Monika and Feichter, Joan and Ramanathan, Murali},
+  journal={The Journal of Immunology},
+  volume={171},
+  number={5},
+  pages={2694--2702},
+  year={2003},
+  publisher={Am Assoc Immnol}
+}
+
+@article{supper2007edisa,
+  title={EDISA: extracting biclusters from multiple time-series of gene expression profiles},
+  author={Supper, Jochen and Strauch, Martin and Wanke, Dierk and Harter, Klaus and Zell, Andreas},
+  journal={BMC bioinformatics},
+  volume={8},
+  number={1},
+  pages={334},
+  year={2007},
+  publisher={BioMed Central}
+}
+
+@misc{alsfrs,
+  title = {ALS Functional Rating Scale Revised (ALS-FRS-R). Version: May 2015},
+  author={ENCALS},
+  year ={2015},
+  howpublished = {\url{https://www.encals.eu/wp-content/uploads/2016/09/ALS-Functional-Rating-Scale-Revised-fill-in-form.pdf}},
+  note={[Online]}
+ }
+ 
+ @article{madeira2004biclustering,
+  title={Biclustering algorithms for biological data analysis: a survey},
+  author={Madeira, Sara C and Oliveira, Arlindo L},
+  journal={IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)},
+  volume={1},
+  number={1},
+  pages={24--45},
+  year={2004},
+  publisher={IEEE Computer Society Press}
+}
+
+@misc{neuroclinomics,
+    title = {NEUROCLINOMICS2: LaSIGE project Page},
+    author = {},
+    year = {2014},
+    howpublished = {\url{https://www.lasige.di.fc.ul.pt/Projects/NEUROCLINOMICS2}},
+    note={[Online - Accessed on 7-12-2019]}
+}
