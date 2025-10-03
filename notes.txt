@@ -1,5 +1,8 @@
 Ideias:
 - Na criação das vms, pedir por um range de utilização, se não for disponibilizado, definir default 1 ano. Quando chegar à data, perguntar a quem as criou se quer continuar ou podem ser apagadas.
-- Olhas para formas de como armazenar o estado das vms de maneira eficiente.
+- Olhas para formas de como armazenar o estado das vms de maneira eficiente. (se é que isso ja é feito com as solucoes)
 - criar vários pacotes de os como predefinidos. 
-- aceder às vms de forma remota
+- aceder às vms de forma remota. (tenho a ideia que para já é so atraves de consola, talvez possibilitar a visualização do ambiente grafico (Linux)).
+
+Pesquisar:
+- Private Cloud. O que é, para que serve e poderá ser aplicado neste caso?
