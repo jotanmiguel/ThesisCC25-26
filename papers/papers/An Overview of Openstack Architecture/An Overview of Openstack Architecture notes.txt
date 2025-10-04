@@ -1,0 +1,23 @@
+Goal: Overview of the openstack architecture
+
+keytakes: 
+	- Widely adopted on the industry;
+	- Simple to implement and adapt;
+	- Modular, enhancing the previous point;
+	- Uses an API (provided by the OpenStack) to communicate between the services
+	- OpenStack Components: Keystone (Auth), Neutron (Network), Glance (VM Images), Swift (Image Storage), Ceilometer (), Cinder (Volumes), Horizon (UI), Nova (Virtual Server);
+
+Components:
+-Computing
+	- Nova:
+	- Glance: Openstack Image Service.
+-Networking
+	- Neutron:
+-Storing
+	- Swift: Openstack Object Storage. Allows the storage and retrieval of files. Can used to backup the VM modules using Cinder;
+	- Cinder: OpenStack Block Storage. Persistent block storage to vm. Cinder will interact with nova, providing volumes.
+-Shared Services
+	-  Keystone: OpenStack Identity. 
+	- Horizon: Openstack Dashboard. Modular web app for a UI cloud infrastructure management by interacting with the other services public API.
+
+Conclusions: - Good performance, Reliability and user acceptance; Modular architecture; Simple to implement and adapt for any hardware; Lower running costs, since its opensource;

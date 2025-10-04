@@ -5,6 +5,7 @@ Ideias:
 - aceder às vms de forma remota. (tenho a ideia que para já é so atraves de consola, talvez possibilitar a visualização do ambiente grafico (Linux)).
 
 Pesquisar:
+- (OpenStack) Simples de implementar e adptar. Pesquisar se existem outras que estejam no uprise que tenham caracteristicas semelhantes, se sim, perceber se vale a pena o risco. (AINDA NÃO LI MUITA COISA SOBRE O CLOUDSTACK)
 
 Duvidas:
 - OpenStack ou Red Hat OpenStack Platform;
