@@ -1,4 +1,4 @@
-### Institute of Advanced Engineering and Science ([Unknown], [Unknown])
+### Overview of the VIII International Conference on Advanced Agritechnologies, Environmental Engineering and Sustainable Development – AGRITECH-VIII – 2023 (I. Kovalev, A. Voroshilova, 2023)
 
 **Problem Statement:**  
 The paper addresses [describe the core issue] in the context of [domain].  

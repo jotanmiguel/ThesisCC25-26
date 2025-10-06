@@ -1,4 +1,4 @@
-### The NIST Definition of Cloud ([Unknown], [Unknown])
+### The NIST Definition of Cloud Computing (P. Mell, T. Grance, 2011)
 
 **Problem Statement:**  
 The paper addresses [describe the core issue] in the context of [domain].  

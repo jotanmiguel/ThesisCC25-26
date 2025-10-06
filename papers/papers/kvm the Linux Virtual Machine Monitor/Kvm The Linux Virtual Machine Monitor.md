@@ -1,4 +1,4 @@
-### Yaniv Kamay ([Unknown], [Unknown])
+### When Kamay Met Hill: Organisational Ethics in Practice (J. Batten, Igor Lončarski, P. Szilagyi, 2018)
 
 **Problem Statement:**  
 The paper addresses [describe the core issue] in the context of [domain].  

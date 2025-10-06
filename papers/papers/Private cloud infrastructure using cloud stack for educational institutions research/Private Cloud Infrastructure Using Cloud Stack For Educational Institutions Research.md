@@ -1,4 +1,4 @@
-### RESEARCH ARTICLE |  APRIL 01 2025 ([Unknown], [Unknown])
+### Performance characteristics of the ultrasound strategy during incidence screening in the UK Collaborative Trial of Ovarian Cancer Screening (UKCTOCS) ([Unknown], 2025)
 
 **Problem Statement:**  
 The paper addresses [describe the core issue] in the context of [domain].  

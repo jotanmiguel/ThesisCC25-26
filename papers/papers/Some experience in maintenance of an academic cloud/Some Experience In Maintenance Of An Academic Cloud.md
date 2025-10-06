@@ -1,4 +1,4 @@
-### Some experience in maintenance of an academic cloud ([Unknown], [Unknown])
+### Some experience in maintenance of an academic cloud (Vasyl P. Oleksiuk, Olesia R. Oleksiuk, O. Spirin, N. Balyk, Yaroslav P. Vasylenko, 2021)
 
 **Problem Statement:**  
 The paper addresses [describe the core issue] in the context of [domain].  

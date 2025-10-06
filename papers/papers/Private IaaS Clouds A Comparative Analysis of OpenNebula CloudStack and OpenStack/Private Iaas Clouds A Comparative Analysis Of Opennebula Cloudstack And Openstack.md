@@ -1,4 +1,4 @@
-### OpenNebula, CloudStack and OpenStack ([Unknown], [Unknown])
+### Private IaaS Clouds: A Comparative Analysis of OpenNebula, CloudStack and OpenStack (Adriano Vogel, Dalvan Griebler, Carlos A. F. Maron, C. Schepke, L. G. Fernandes, 2016)
 
 **Problem Statement:**  
 The paper addresses [describe the core issue] in the context of [domain].  

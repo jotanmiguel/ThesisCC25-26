@@ -1,4 +1,4 @@
-### The Measurement Manifesto ([Unknown], [Unknown])
+### The measurement manifesto (G. Varghese, Cristian Estan, 2004)
 
 **Problem Statement:**  
 The paper addresses [describe the core issue] in the context of [domain].  

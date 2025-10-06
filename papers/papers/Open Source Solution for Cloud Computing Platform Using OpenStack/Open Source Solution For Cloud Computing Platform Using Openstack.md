@@ -1,4 +1,4 @@
-### Open Source Solution for Cloud Computing ([Unknown], [Unknown])
+### Open Source Solution for Cloud Computing (Neha Chandrapatle, Prof. ParinitaChate, 2016)
 
 **Problem Statement:**  
 The paper addresses [describe the core issue] in the context of [domain].  

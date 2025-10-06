@@ -1,4 +1,4 @@
-### Comparison of Multiple Cloud Frameworks ([Unknown], [Unknown])
+### Comparison of Multiple Cloud Frameworks (G. Laszewski, Javier Diaz, Fugang Wang, G. Fox, 2012)
 
 **Problem Statement:**  
 The paper addresses [describe the core issue] in the context of [domain].  

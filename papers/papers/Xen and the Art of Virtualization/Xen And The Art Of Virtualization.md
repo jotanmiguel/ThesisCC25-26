@@ -1,4 +1,4 @@
-### Xen and the Art of Virtualization ([Unknown], [Unknown])
+### Xen and the art of virtualization (P. Barham, Boris Dragovic, K. Fraser, Steven Hand, Tim Harris, Alex Ho, R. Neugebauer, Ian Pratt, Andrew Warfield, 2003)
 
 **Problem Statement:**  
 The paper addresses [describe the core issue] in the context of [domain].  

@@ -1,4 +1,4 @@
-### Performance Analysis of an OpenStack Private Cloud ([Unknown], [Unknown])
+### Performance Analysis of an OpenStack Private Cloud (T. Pflanzner, Roland Tornyai, Balazs Gibizer, Anita Schmidt, A. Kertész, 2016)
 
 **Problem Statement:**  
 The paper addresses [describe the core issue] in the context of [domain].  

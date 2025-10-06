@@ -1,4 +1,4 @@
-### [Paper Title] ([Authors], [Year])
+### An overview of openstack architecture (Tiago Rosado, Jorge Bernardino, 2014)
 
 **Problem Statement:**  
 The paper addresses [describe the core issue] in the context of [domain].  
@@ -22,4 +22,6 @@ The work was evaluated through [type of experiment or benchmark], showing [main 
 The study notes that [limitations]. Future directions include [suggested work].
 
 **Relevance to Current Project:**  
-This paper provides insights applicable to the cloud infrastructure project at DI, particularly
+This paper provides insights applicable to the cloud infrastructure project at DI, particularly [authentication / virtualization / orchestration / etc.].
+
+**DOI / Link:** [None]

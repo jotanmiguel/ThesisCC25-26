@@ -1,4 +1,4 @@
-### OpenStack and Google Cloud performance ([Unknown], [Unknown])
+### OpenStack and Google Cloud performance comparison in Infrastructure as a Service model (Michal Latkowski, R. Nowak, 2022)
 
 **Problem Statement:**  
 The paper addresses [describe the core issue] in the context of [domain].  

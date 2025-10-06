@@ -1,4 +1,4 @@
-### C O V E R  F E A T U R E ([Unknown], [Unknown])
+### Phosphorus (Klement, White, Phosphoru, 2022)
 
 **Problem Statement:**  
 The paper addresses [describe the core issue] in the context of [domain].  

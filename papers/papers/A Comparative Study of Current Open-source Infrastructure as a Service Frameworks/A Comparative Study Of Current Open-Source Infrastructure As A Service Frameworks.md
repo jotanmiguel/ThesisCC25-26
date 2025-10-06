@@ -1,4 +1,4 @@
-### [Paper Title] ([Authors], [Year])
+### A Comparative Study of Current Open-source Infrastructure as a Service Frameworks (Theo Lynn, Graham Hunt, D. Corcoran, J. Morrison, Philip D. Healy, 2015)
 
 **Problem Statement:**  
 The paper addresses [describe the core issue] in the context of [domain].  
@@ -22,4 +22,6 @@ The work was evaluated through [type of experiment or benchmark], showing [main 
 The study notes that [limitations]. Future directions include [suggested work].
 
 **Relevance to Current Project:**  
-This paper provides insights applicable to the cloud infrastructure project at DI, particularly
+This paper provides insights applicable to the cloud infrastructure project at DI, particularly [authentication / virtualization / orchestration / etc.].
+
+**DOI / Link:** [None]

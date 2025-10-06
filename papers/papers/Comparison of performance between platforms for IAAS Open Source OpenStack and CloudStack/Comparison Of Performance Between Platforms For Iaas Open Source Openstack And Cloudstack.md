@@ -1,4 +1,4 @@
-### C u r r i c u l u m  I n c l u s i o n ([Unknown], [Unknown])
+### U. S. Geological Survey (Cecil D. Andrus, William Menard, 1967)
 
 **Problem Statement:**  
 The paper addresses [describe the core issue] in the context of [domain].  

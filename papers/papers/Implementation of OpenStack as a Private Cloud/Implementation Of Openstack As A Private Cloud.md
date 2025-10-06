@@ -1,4 +1,4 @@
-### Volume 2 Issue 4 (August,2025) ([Unknown], [Unknown])
+### Editorial for Clean Energy Science and Technology (Volume 2, Issue 4) (Ming Zhao, 2025)
 
 **Problem Statement:**  
 The paper addresses [describe the core issue] in the context of [domain].  

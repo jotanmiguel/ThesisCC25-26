@@ -1,4 +1,4 @@
-### Science and Information Conference 2013 ([Unknown], [Unknown])
+### 2013 Federated Conference on Computer Science and Information Systems (Ieee Staff, 2013)
 
 **Problem Statement:**  
 The paper addresses [describe the core issue] in the context of [domain].  

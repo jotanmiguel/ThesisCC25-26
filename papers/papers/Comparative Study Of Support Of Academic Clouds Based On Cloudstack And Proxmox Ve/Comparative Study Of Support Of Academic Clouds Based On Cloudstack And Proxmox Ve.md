@@ -1,4 +1,4 @@
-### Comparative Study of the Support of Academic Clouds Based on Apache ([Unknown], [Unknown])
+### Comparative Study of the Support of Academic Clouds Based on Apache CloudStack and Proxmox VE Platforms (Vasyl P. Oleksiuk, Olesia R. Oleksiuk, O. Spirin, 2021)
 
 **Problem Statement:**  
 The paper addresses [describe the core issue] in the context of [domain].  

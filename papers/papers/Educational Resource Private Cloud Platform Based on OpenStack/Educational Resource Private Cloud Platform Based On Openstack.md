@@ -1,4 +1,4 @@
-### Educational Resource Private Cloud ([Unknown], [Unknown])
+### Educational Resource Private Cloud Platform Based on OpenStack (Linchang Zhao, Guoqing Hu, Yongchi Xu, 2024)
 
 **Problem Statement:**  
 The paper addresses [describe the core issue] in the context of [domain].  
