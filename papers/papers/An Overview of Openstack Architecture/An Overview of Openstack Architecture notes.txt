@@ -9,15 +9,33 @@ keytakes:
 
 Components:
 -Computing
-	- Nova:
-	- Glance: Openstack Image Service.
+	- Nova (Compute): The core of OpenStack’s IaaS, Nova is responsible for provisioning and orchestrating virtual machines (VMs).
+	It interacts with different hypervisors (e.g., KVM, Xen, VMware, Hyper-V) and integrates with Neutron (networking), Cinder (storage), and Keystone (authentication).
+
+	- Glance (Image Service): Openstack Image Service. Manages the catalog of VM images, allowing discovery, registration, and retrieval of images.
+	Provides an API to store and manage large libraries of images used by Nova when launching instances.
+
 -Networking
-	- Neutron:
+	- Neutron (Networking): Provides “networking as a service” between interface devices managed by Nova.
+Supports DHCP, IP address management, VLANs, VPNs, load balancing, firewalls, and intrusion detection.
+Its plugin-based architecture allows integration with third-party solutions.
+
+
 -Storing
-	- Swift: Openstack Object Storage. Allows the storage and retrieval of files. Can used to backup the VM modules using Cinder;
-	- Cinder: OpenStack Block Storage. Persistent block storage to vm. Cinder will interact with nova, providing volumes.
+	- Swift (Object Storage): Openstack Object Storage. Allows the storage and retrieval of files. Can used to backup the VM modules using Cinder;
+
+	- Cinder (Block Storage): OpenStack Block Storage. Persistent block storage to vm. Cinder will interact with nova, providing volumes.
+
 -Shared Services
-	-  Keystone: OpenStack Identity. 
-	- Horizon: Openstack Dashboard. Modular web app for a UI cloud infrastructure management by interacting with the other services public API.
+	- Keystone (Identity): OpenStack Identity.
+ 
+	- Horizon (Dashboard): Openstack Dashboard. Modular web app for a UI cloud infrastructure management by interacting with the other services public API.
+
+	- Ceilometer (Telemerty): Monitors CPU and Network usage for billing purposes.
+	
+- Supporting Services
+	- Database: MySQL as the default to store configs and management info. Typically runs on the controller node.
+
+	- AMQP (Message Queue): Messaging technology for inter-process communication. A common platform to send and receive messages between them without knowledge of each other's component. 
 
 Conclusions: - Good performance, Reliability and user acceptance; Modular architecture; Simple to implement and adapt for any hardware; Lower running costs, since its opensource;
