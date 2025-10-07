@@ -11,5 +11,4 @@ Pesquisar:
 - Benchmarks: LINPACK, STREAM, IOzone, IPerf, NAS-OMP, and NAS-MPI.
 
 Duvidas:
-- OpenStack ou Red Hat OpenStack Platform;
 - Seria um Private cloud do tipo IaaS
