@@ -6,6 +6,9 @@ Ideias:
 
 Pesquisar:
 - (OpenStack) Simples de implementar e adptar. Pesquisar se existem outras que estejam no uprise que tenham caracteristicas semelhantes, se sim, perceber se vale a pena o risco. (AINDA NÃO LI MUITA COISA SOBRE O CLOUDSTACK)
+- statistical multiplexing
+- hypervisor
+- Benchmarks: LINPACK, STREAM, IOzone, IPerf, NAS-OMP, and NAS-MPI.
 
 Duvidas:
 - OpenStack ou Red Hat OpenStack Platform;

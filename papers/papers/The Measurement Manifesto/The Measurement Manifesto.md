@@ -1,11 +1,16 @@
 ### The measurement manifesto (G. Varghese, Cristian Estan, 2004)
 
 **Problem Statement:**  
-The paper addresses [describe the core issue] in the context of [domain].  
-This problem is relevant due to [reason].
+The paper addresses the lack of rigorous, standardized methodologies for evaluating cloud computing systems.
+At the time, most studies focused on infrastructure design or economic models, but there was no scientific consensus on how to measure performance, elasticity, scalability, or cost-effectiveness in a reproducible way.
+This absence hindered both academic research and industrial benchmarking.
 
 **Objectives:**  
-The authors aim to [state the main objectives or research questions].
+The authors aim to transform cloud computing into a measurement-based science.
+Their goals are to:
+- Define measurable metrics and experimental procedures for cloud evaluation.
+- Promote transparency, repeatability, and comparability in cloud performance research.
+- Encourage collaboration between academia and industry to build open benchmarking platforms.
 
 **Proposed Solution:**  
 The proposed approach involves [summarize the architecture/method/technology].  
