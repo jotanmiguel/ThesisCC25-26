@@ -5,6 +5,9 @@ Ideias:
 - aceder às vms de forma remota. (tenho a ideia que para já é so atraves de consola, talvez possibilitar a visualização do ambiente grafico (Linux)).
 - server de production;
 
+Notas:
+- Promax tem flexibility and scalability issues. Para além disso, é preciso licença.
+
 Pesquisar:
 - (OpenStack) Simples de implementar e adptar. Pesquisar se existem outras que estejam no uprise que tenham caracteristicas semelhantes, se sim, perceber se vale a pena o risco. (AINDA NÃO LI MUITA COISA SOBRE O CLOUDSTACK)
 - statistical multiplexing
@@ -14,7 +17,8 @@ Pesquisar:
 - Hypervisors vs Containers?
 - how does the openstack/cloudstack integrate with the already established FCUL's auth system?
 - Full vs Incremental vs Differencial.
-
+- Openstack é scalable, mas dificil e manter efficient resource allocation e perfomance?
+- Rescheduling in openstack.
 
 Duvidas:
 - Seria um Private cloud do tipo IaaS?
@@ -24,3 +28,4 @@ Duvidas:
 - Quais OS seriam disponibilizados?
 - Potenciais motivos de downtime da cloud. Falha energia, sobrecarga;
 - É necessário pensar nos backups. De raiz ou integrar com o sistema já implementado? Cloud Services para esta parte caso seja de raiz?
+- Queremos manter isto energy efficient? performance efficient? os dois? existem outras prioridades?
