@@ -254,5 +254,133 @@
     "venue": "",
     "doi": "[None]",
     "url": "https://www.semanticscholar.org/paper/6e93326319d4f79554d604a6ab1b1608275b215f"
+  },
+  "A Review of Dynamic Resource Management in Cloud Computing": {
+    "title": "A Review of Dynamic Resource Management in Cloud Computing Environments",
+    "authors": "M. Aldossary",
+    "year": 2021,
+    "venue": "Computer systems science and engineering",
+    "doi": "[None]",
+    "url": "https://www.semanticscholar.org/paper/30c2dac9eb2cb91342ee57350e1c6ac030f9251d"
+  },
+  "R E S E A R C H A R T I C L E": {
+    "title": "R E V I E W a Rt I C L E",
+    "authors": "B L A S P H E M Y I N T H E C H R I S T I A N I D I O, David Nash Oxford, Oxford, Michael F Graham, Edinburgh, Francisca Loetz, Rosemary Selle Farnham, Javier Villa-Flores, Tucson",
+    "year": null,
+    "venue": "",
+    "doi": "[None]",
+    "url": "https://www.semanticscholar.org/paper/dd50f605a08f4b6af20c5f0dba38ace8d529ad22"
+  },
+  "Comparative Study of Hypervisor Technologies for Running Enterprise": {
+    "title": "A Comparative Study on Virtual Machine versus Containers for Embedded Systems such as Enterprise Routers",
+    "authors": "D. K. S. Reddy, M. PGScholar, Tech",
+    "year": 2017,
+    "venue": "",
+    "doi": "[None]",
+    "url": "https://www.semanticscholar.org/paper/63d666b1e7e84d622b59723b9ae8a5e4659f25d1"
+  },
+  "Resource Allocation in Cloud Data": {
+    "title": "Dynamic Resource Allocation and Energy Optimization in Cloud Data Centers Using Deep Reinforcement Learning",
+    "authors": "Haoran Li, Gaike Wang, Lin Li, Jiayi Wang",
+    "year": 2024,
+    "venue": "Journal of Artificial Intelligence General science (JAIGS) ISSN:3006-4023",
+    "doi": "[None]",
+    "url": "https://www.semanticscholar.org/paper/a1bdd04c1ac0b129ee9bb1716561202b75c84d15"
+  },
+  "The Journal of Engineering": {
+    "title": "Retracted: Automatic Intelligent Control System Based on Intelligent Control Algorithm",
+    "authors": "Journal of Electrical and Computer Engineering",
+    "year": 2024,
+    "venue": "Journal of Electrical and Computer Engineering",
+    "doi": "[None]",
+    "url": "https://www.semanticscholar.org/paper/a5b5327c5865cea8c3fb742ba51cc970224bd171"
+  },
+  "Bachelor of Science in Software Engineering": {
+    "title": "Rochester Institute of Technology Bachelor of Science in Software Engineering CSEE&T Hall of Fame Nomination",
+    "authors": "J. Vallino",
+    "year": 2017,
+    "venue": "Conference on Software Engineering Education and Training",
+    "doi": "[None]",
+    "url": "https://www.semanticscholar.org/paper/881c5a142104aed625086ddd3c0c530bda4f3355"
+  },
+  "Disaster Recovery Layer for Distributed OpenStack Deployments": {
+    "title": "Disaster Recovery Layer for Distributed OpenStack Deployments",
+    "authors": "Luis Tomás, P. Kokkinos, Vasilis Anagnostopoulos, Oshrit Feder, D. Kyriazis, K. Meth, Emmanouel Varvarigos, T. Varvarigou",
+    "year": 2020,
+    "venue": "IEEE Transactions on Cloud Computing",
+    "doi": "[None]",
+    "url": "https://www.semanticscholar.org/paper/9aecdfd277cd4374f2ae7d9fab2b9ff733f98838"
+  },
+  "Advances, Systems and Applications": {
+    "title": "Recent advances in solar photovoltaic technologies: Efficiency, materials, and applications",
+    "authors": "Olorunshogo Benjamin, Olorunshogo Benjamin Ogundipe, Azubuike Chukwudi Okwandu, Sanni Ayinde Abdulwaheed",
+    "year": 2024,
+    "venue": "GSC Advanced Research and Reviews",
+    "doi": "[None]",
+    "url": "https://www.semanticscholar.org/paper/ed90eea8f18968b80e00f7de82c18cd179d1b89e"
+  },
+  "for Building Public and Private Clouds": {
+    "title": "Open Stack and Cloud Stack: Open Source Solutions for Building Public and Private Clouds",
+    "authors": "A. Barkat, A. D. Santos, Thi Thao Nguyen Ho",
+    "year": 2014,
+    "venue": "2014 16th International Symposium on Symbolic and Numeric Algorithms for Scientific Computing",
+    "doi": "[None]",
+    "url": "https://www.semanticscholar.org/paper/31e95f3aa28030972248cf956719e43658c0cb07"
+  },
+  "OpenStack Backup": {
+    "title": "A Research of OpenStack Virtual Machine Backup Service Quality Indicators",
+    "authors": "D. Petukhov, V. A. Dokuchaev",
+    "year": 2022,
+    "venue": "2022 International Conference on Engineering Management of Communication and Technology (EMCTECH)",
+    "doi": "[None]",
+    "url": "https://www.semanticscholar.org/paper/dcb1061ef49a5378a4cc2a061287318f049b9b8b"
+  },
+  "SOLUTION BRIEF": {
+    "title": "Gwell Medical Solution Brief",
+    "authors": "[Unknown]",
+    "year": 2020,
+    "venue": "",
+    "doi": "[None]",
+    "url": "https://www.semanticscholar.org/paper/811baeb06a26d85744b995f3076a0af052d4488b"
+  },
+  "Optimization of Computer Resources Using OpenStack": {
+    "title": "Optimization of Computer Resources Using OpenStack Private Cloud",
+    "authors": "A. Noertjahyana, H. Palit, D. Kuntani",
+    "year": 2019,
+    "venue": "World Symposium on Software Engineering",
+    "doi": "[None]",
+    "url": "https://www.semanticscholar.org/paper/fb041690e6858e88d357a3fa3954c37cfd335ba6"
+  },
+  "Performance Evaluation of Xen, KVM, and Proxmox Hypervisors": {
+    "title": "Performance Evaluation of Xen, KVM, and Proxmox Hypervisors",
+    "authors": "S. Algarni, Mohammad Rafi Ikbal, Roobaea Alroobaea, Ahmed S. Ghiduk, F. Nadeem",
+    "year": 2018,
+    "venue": "International Journal of Open Source Software & Processes",
+    "doi": "[None]",
+    "url": "https://www.semanticscholar.org/paper/5b661287804d6b7aee0fb7e8b04022389837e3ad"
+  },
+  "Performance Management for Cloud": {
+    "title": "Runtime Performance Management for Cloud Applications with Adaptive Controllers",
+    "authors": "C. Barna, Marin Litoiu, Marios Fokaefs, Mark Shtern, J. Wigglesworth",
+    "year": 2018,
+    "venue": "International Conference on Performance Engineering",
+    "doi": "[None]",
+    "url": "https://www.semanticscholar.org/paper/205eee0ce9e35b518ee98776085803faaf578abb"
+  },
+  "International Journal of Recent Technology and Engineering (IJRTE)": {
+    "title": "International Journal of Recent Technology and Engineering (IJRTE)",
+    "authors": "Ahmad Yusri Mohamad, M. Jamil, Nurshafitrah Yusoff, M. Taha, Abd Rahim, Awang",
+    "year": 2019,
+    "venue": "",
+    "doi": "[None]",
+    "url": "https://www.semanticscholar.org/paper/199203f02d19572960c9da6e4eff939e11c30291"
+  },
+  "Using the cloud to build a computing lab": {
+    "title": "Using the cloud to build a computing lab",
+    "authors": "Samuel Alves, Paula Prata",
+    "year": 2014,
+    "venue": "Iberian Conference on Information Systems and Technologies",
+    "doi": "[None]",
+    "url": "https://www.semanticscholar.org/paper/0c77edab9e47f53f435f4786b8454949ffb02213"
   }
 }
