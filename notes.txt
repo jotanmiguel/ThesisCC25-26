@@ -4,6 +4,9 @@ Ideias:
 - criar vários flavors default para escolha, com opção de customize das imagens em termos de software.  
 - aceder às vms de forma remota. (tenho a ideia que para já é so atraves de consola, talvez possibilitar a visualização do ambiente grafico (Linux)).
 - server de production;
+- dashboard com todas as vms do utilizador, com todas as vms do professor por cadeira. DESENVOLVER MAIS ESTA IDEIA.
+- Editar uma das imagens disponibilizadas e guardar para usar como "template". Exemplo: Professor altera uma das imagens para ter mais software instalado, guarda essa nova imagem, e posteriormente usa-a para criar VMs para os seus alunos com base nessas imagens. (Snapshot Openstack)
+- Log?
 
 Notas:
 - Promax tem flexibility and scalability issues. Para além disso, é preciso licença.
@@ -29,3 +32,5 @@ Duvidas:
 - Potenciais motivos de downtime da cloud. Falha energia, sobrecarga;
 - É necessário pensar nos backups. De raiz ou integrar com o sistema já implementado? Cloud Services para esta parte caso seja de raiz?
 - Queremos manter isto energy efficient? performance efficient? os dois? existem outras prioridades?
+- A memoria das VMs é volatile? cada vez que é desligada, perde-se a memoria?
+- Vamos integrar isto com uma cloud do tipo AWS, Azure, Google Cloud, etc...?
