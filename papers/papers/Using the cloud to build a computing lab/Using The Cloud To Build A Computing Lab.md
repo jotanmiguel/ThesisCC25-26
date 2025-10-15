@@ -19,7 +19,7 @@ The work was evaluated through [type of experiment or benchmark], showing [main 
 - [Mention any unique aspect compared to prior work]
 
 **Limitations and Future Work:**  
-The study notes that [limitations]. Future directions include [suggested work].
+The study notes that Multi-Cloud Enviroment are not possible now in OpenStack using either CompatibleOne and Scalr. The authors state that they got it to work with Scalr, but CompatibleOne didn't work at all. Future directions include study a way to implement a multi-cloud enviroment with the proposed platform
 
 **Relevance to Current Project:**  
 This paper provides insights applicable to the cloud infrastructure project at DI, particularly [authentication / virtualization / orchestration / etc.].
