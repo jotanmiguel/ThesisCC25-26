@@ -12,11 +12,10 @@ Notas:
 - Promax tem flexibility and scalability issues. Para além disso, é preciso licença.
 
 Pesquisar:
-- (OpenStack) Simples de implementar e adptar. Pesquisar se existem outras que estejam no uprise que tenham caracteristicas semelhantes, se sim, perceber se vale a pena o risco. (AINDA NÃO LI MUITA COISA SOBRE O CLOUDSTACK)
 - statistical multiplexing
 - hypervisor: KVM, Xen, VMware, Hyper-V;
 - Benchmarks: LINPACK, STREAM, IOzone, IPerf, NAS-OMP, and NAS-MPI.
-- HA?
+- High Availability?
 - Hypervisors vs Containers?
 - how does the openstack/cloudstack integrate with the already established FCUL's auth system?
 - Full vs Incremental vs Differencial.
@@ -24,13 +23,16 @@ Pesquisar:
 - Rescheduling in openstack.
 
 Duvidas:
-- Seria um Private cloud do tipo IaaS?
 - Qual seria os requisitos de vCPU, vRAM e Storage (Root disk and Ephemeral disk)? (flavor)
 - Quais seriam os ratios de CPU and RAM allocation ratio. (e.g. 10:1 CPU and 1.5:1 RAM | 8 cores gave 80 vCores and 32GB gave 48GB vRAM)
-- Redhat Distribution of Openstack vs Openstack. Packstack?
 - Quais OS seriam disponibilizados?
 - Potenciais motivos de downtime da cloud. Falha energia, sobrecarga;
 - É necessário pensar nos backups. De raiz ou integrar com o sistema já implementado? Cloud Services para esta parte caso seja de raiz?
 - Queremos manter isto energy efficient? performance efficient? os dois? existem outras prioridades?
 - A memoria das VMs é volatile? cada vez que é desligada, perde-se a memoria?
 - Vamos integrar isto com uma cloud do tipo AWS, Azure, Google Cloud, etc...?
+
+Trabalho:
+- Ler literatura (artigos, papers, blogs, etc...);
+- Instalar Software e Hardware necessario para suportar a nossa solucao (2 servidores, ubuntu 22.04, cloudstack, );
+
