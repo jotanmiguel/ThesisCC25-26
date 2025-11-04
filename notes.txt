@@ -31,10 +31,19 @@ Duvidas:
 - Queremos manter isto energy efficient? performance efficient? os dois? existem outras prioridades?
 - A memoria das VMs é volatile? cada vez que é desligada, perde-se a memoria?
 - Vamos integrar isto com uma cloud do tipo AWS, Azure, Google Cloud, etc...?
+- Acessivel fora da rede da fcul?
 
 Trabalho:
 - Ler literatura (artigos, papers, blogs, etc...);
 - Instalar Software e Hardware necessario para suportar a nossa solucao (2 servidores, ubuntu 22.04, cloudstack, );
 	- cloudstack_01: 10.10.5.51 jose:admin123
 	- cloudstack_02: 10.10.5.52 joao:admin123
+
+- Software instalado ate agora:
+	Apache CloudStack 4.18.2.5 (packages cloudstack-agent and cloudstack-common) — provides the CloudStack hypervisor agent for KVM hosts.
+	KVM/QEMU 6.2 — offers full virtualization support for x86 systems (qemu-system-x86, qemu-utils, and related modules).
+	Libvirt 8.0.0 — handles VM lifecycle management and communication between CloudStack and the hypervisor through libvirtd.
+	NFS 2.6.1 — provides shared network storage (for primary and secondary CloudStack volumes).
+	MariaDB/MySQL client libraries — ensure compatibility with the CloudStack management database.
+	Networking utilities such as bridge-utils, ebtables, and vlan — used to configure network bridges (cloudbr0, cloudbr1) required for CloudStack’s advanced networking mode.
 

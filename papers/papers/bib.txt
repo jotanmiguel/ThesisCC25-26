@@ -1,0 +1,40 @@
+16/10/2025  21:15    <DIR>          A Comparative Study of Current Open-source Infrastructure as a Service Frameworks
+16/10/2025  21:15    <DIR>          A Review Of Dynamic Resource Management In Cloud Computing Environments
+16/10/2025  21:15    <DIR>          A Systematic Review On Effective Energy Utilization Management Strategies In Cloud Data Center
+06/10/2025  18:05    <DIR>          Above the Clouds A Berkeley View of Cloud
+18/10/2025  18:15    <DIR>          Apache CloudStack Open Source Infrastructure as a Service Cloud
+06/10/2025  18:05    <DIR>          Apache CloudStack PoC Guide Step-by-Step Guide Installation and Use CasesClean
+07/10/2025  00:40               213 articles.txt
+16/10/2025  21:15    <DIR>          Availability Modeling In Redundant Openstack
+16/10/2025  21:15    <DIR>          Backing Up And Restoring The Undercloud And Control Plane Nodes Rho
+06/10/2025  18:05    <DIR>          Benchmarking the Performance of OpenStack and CloudStack
+06/10/2025  18:06    <DIR>          Cloud Computing QoS Architecture Analysis of Cloud Systems and Cloud Services
+16/10/2025  21:15    <DIR>          Comparative Study Of Hypervisor Technologies For Running Enterprise Applications On Linux Vms
+06/10/2025  18:06    <DIR>          Comparative Study Of Support Of Academic Clouds Based On Cloudstack And Proxmox Ve
+16/10/2025  20:59    <DIR>          Comparison of Multiple Cloud Frameworks
+06/10/2025  18:06    <DIR>          Comparison of performance between platforms for IAAS Open Source OpenStack and CloudStack
+16/10/2025  21:15    <DIR>          Cost-Effective And Energy-Aware Resource Allocation In Cloud Data Centers
+16/10/2025  21:15    <DIR>          Deploying An OpenStack Cloud Computing Framework for University Campus
+16/10/2025  21:15    <DIR>          Differences In Performance Between Containerization Virtualization
+16/10/2025  21:15    <DIR>          Energy-Aware Vm Placement Algorithms For The Openstack Neat Consolidation Framework
+06/10/2025  18:06    <DIR>          Evaluating cloud interactions with costs and SLAs
+16/10/2025  21:15    <DIR>          IaaS A Comparative Performance Analysis Of Open-Source Cloud Platforms
+16/10/2025  21:15    <DIR>          Integrated Resource Management Pipeline For Dynamic Resource-Effective Cloud Data Center
+06/10/2025  18:07    <DIR>          kvm the Linux Virtual Machine Monitor
+22/10/2025  14:24        49 078 374 merged.pdf
+06/10/2025  18:07    <DIR>          Open Source Solution for Cloud Computing Platform Using OpenStack
+16/10/2025  21:15    <DIR>          Openstack And Cloudstack Open Source Solutions For Building Public And Private Clouds
+06/10/2025  18:07    <DIR>          OpenStack in Action
+06/10/2025  18:07    <DIR>          Performance Analysis of an OpenStack Private Cloud
+06/10/2025  18:07    <DIR>          Performance Evaluation of the CloudStack Private Cloud
+16/10/2025  21:15    <DIR>          Performance Evaluation Of Xen Kvm And Proxmox Hypervisors
+16/10/2025  21:15    <DIR>          Private cloud infrastructure using cloud stack for educational institutions research
+17/10/2025  17:50         1 024 348 Private cloud infrastructure using cloud stack for Educational Institutions Research.pdf
+06/10/2025  18:07    <DIR>          Private IaaS Clouds A Comparative Analysis of OpenNebula CloudStack and OpenStack
+16/10/2025  21:15    <DIR>          Research And Optimization Of Openstack Virtual Machine Resource Scheduling Technology
+16/10/2025  21:15    <DIR>          Review On Scheduling In Iaas Clouds Taxonomy Issues Challenges And Future Directions
+16/10/2025  21:15    <DIR>          Scheduling Under Open Stack The Current State And Future Enhancements
+16/10/2025  21:15    <DIR>          Some experience in maintenance of an academic cloud
+28/10/2025  12:41    <DIR>          Using OpenStack To Improve Student Experience in an H.E. Environment
+06/10/2025  18:30    <DIR>          The NIST Definition of Cloud Computing
+16/10/2025  21:15    <DIR>          Using the cloud to build a computing lab
