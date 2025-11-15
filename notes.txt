@@ -1,8 +1,7 @@
 Ideias:
 - Na criação das vms, pedir por um range de utilização, se não for disponibilizado, definir default 1 ano. Quando chegar à data, perguntar a quem as criou se quer continuar ou podem ser apagadas.
 - Olhas para formas de como armazenar o estado das vms de maneira eficiente. (se é que isso ja é feito com as solucoes)
-- criar vários flavors default para escolha, com opção de customize das imagens em termos de software.  
-- aceder às vms de forma remota. (tenho a ideia que para já é so atraves de consola, talvez possibilitar a visualização do ambiente grafico (Linux)).
+- criar vários flavors default para escolha, com opção de customize das imagens em termos de software.
 - server de production;
 - dashboard com todas as vms do utilizador, com todas as vms do professor por cadeira. DESENVOLVER MAIS ESTA IDEIA.
 - Editar uma das imagens disponibilizadas e guardar para usar como "template". Exemplo: Professor altera uma das imagens para ter mais software instalado, guarda essa nova imagem, e posteriormente usa-a para criar VMs para os seus alunos com base nessas imagens. (Snapshot Openstack)
@@ -13,14 +12,10 @@ Notas:
 
 Pesquisar:
 - statistical multiplexing
-- hypervisor: KVM, Xen, VMware, Hyper-V;
 - Benchmarks: LINPACK, STREAM, IOzone, IPerf, NAS-OMP, and NAS-MPI.
 - High Availability?
-- Hypervisors vs Containers?
 - how does the openstack/cloudstack integrate with the already established FCUL's auth system?
 - Full vs Incremental vs Differencial.
-- Openstack é scalable, mas dificil e manter efficient resource allocation e perfomance?
-- Rescheduling in openstack.
 
 Duvidas:
 - Qual seria os requisitos de vCPU, vRAM e Storage (Root disk and Ephemeral disk)? (flavor)
@@ -31,8 +26,6 @@ Duvidas:
 - Queremos manter isto energy efficient? performance efficient? os dois? existem outras prioridades?
 - A memoria das VMs é volatile? cada vez que é desligada, perde-se a memoria?
 - Vamos integrar isto com uma cloud do tipo AWS, Azure, Google Cloud, etc...?
-- Acessivel fora da rede da fcul?
-
 Trabalho:
 - Ler literatura (artigos, papers, blogs, etc...);
 - Instalar Software e Hardware necessario para suportar a nossa solucao (2 servidores, ubuntu 22.04, cloudstack, );
