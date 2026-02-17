@@ -19,10 +19,6 @@ Integração do sistema de controlo de acessos com a atual AD (2 meses)
 Preparação de protótipos demonstrativos e validação (2 meses)
 Escrita do relatório final (1 mês)
 
-Local de trabalho
-
-Administração de sistemas do DI
-
 Proponente
 
 Mário João Barata Calha (mcalha@fc.ul.pt)
